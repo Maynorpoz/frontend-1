@@ -43,14 +43,13 @@ Node.js desde el enlace de la tabla y vuelva a abrir la terminal.
 Si lo clona desde GitHub:
 
 ```bash
-git clone https://github.com/USUARIO/farmacia-react-demo.git
-cd farmacia-react-demo
+git clone https://github.com/Maynorpoz/frontend-1
 ```
 
 Si ya tiene la carpeta en su computadora, solo ubíquese en ella:
 
 ```bash
-cd ruta/hacia/frontend
+cd ruta/hacia/frontend-1
 ```
 
 ### Paso 2 — Instalar las dependencias
